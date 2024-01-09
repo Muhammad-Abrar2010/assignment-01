@@ -46,9 +46,6 @@
   position: relative;
 }
 
-.main-1-container img:hover{
+.main-1-container img:hover {
   border-color: green;
-
-
-
 }

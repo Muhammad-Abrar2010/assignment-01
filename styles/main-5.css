@@ -34,12 +34,9 @@
 
 /* grid */
 
-
-.parent-grid{
-    display: grid;
-    grid-template-columns: 2fr 3fr 3fr;
-    row-gap: 20px;
-    column-gap: 20px;
-
-
+.parent-grid {
+  display: grid;
+  grid-template-columns: 2fr 3fr 3fr;
+  row-gap: 20px;
+  column-gap: 20px;
 }

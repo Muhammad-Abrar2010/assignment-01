@@ -4,7 +4,7 @@
 
 .main-2-container {
   background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0) 100%),
-    url(resources/Vectorrr.png);
+    url(../resources/Vectorrr.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -25,7 +25,6 @@
   line-height: 88px;
   letter-spacing: 7.04px;
   text-align: justify;
-  
 }
 
 .main-2-container p {
@@ -36,7 +35,6 @@
   font-weight: 400;
   line-height: 30px;
   text-align: justify;
-   
 }
 
 .main-2-container button {
@@ -51,7 +49,6 @@
   line-height: normal;
   text-transform: uppercase;
   border: none;
-   
 }
 
 .img-1 {
