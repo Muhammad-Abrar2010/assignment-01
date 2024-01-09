@@ -1,0 +1,54 @@
+.main-1 {
+  margin: 16px;
+}
+
+.main-1-container {
+  font-family: Inter;
+  width: auto;
+  height: auto;
+  margin: auto;
+  margin-bottom: 25px;
+}
+
+.main-1-container h2 {
+  color: #f00;
+
+  text-align: center;
+  font-size: 88px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.main-1-container p {
+  color: #f00;
+  text-align: center;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.main-1-container h1 {
+  color: #070211;
+
+  text-align: center;
+  font-family: Inter;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.main-1-container img {
+  margin: auto;
+  display: block;
+  position: relative;
+}
+
+.main-1-container img:hover{
+  border-color: green;
+
+
+
+}

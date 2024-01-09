@@ -1,0 +1,20 @@
+.footer{
+
+
+
+
+    margin: 16px;
+}
+
+
+
+.footer-container{
+    width: auto;
+height: auto;
+background-color: grey;
+display: flex;
+justify-content: space-around;
+
+
+
+}

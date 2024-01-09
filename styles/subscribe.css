@@ -1,0 +1,27 @@
+.Subsribe {
+  margin: 16px;
+}
+
+.Subscribe-Container {
+  background-color: pink;
+  text-align: center;
+  width: auto;
+  height: auto;
+  padding-bottom: 64px;
+  padding-top: 64px;
+}
+
+#btn {
+  background-color: rgba(255, 3, 3, 0.6);
+  border-radius: 16px;
+  text-align: center;
+  font-size: 24px;
+  border: 0px none;
+}
+
+#mail {
+  border-radius: 16px;
+  text-align: center;
+  font-size: 24px;
+  border: 0px none;
+}
